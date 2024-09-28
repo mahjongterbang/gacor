@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahjongterbang.github.io/gacor/sitemap.xml
